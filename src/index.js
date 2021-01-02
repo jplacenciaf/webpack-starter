@@ -1,7 +1,7 @@
 import { saludar } from './js/componentes.js';
 import './styles.css';
 
-const nombre = 'Edwyn Jose Placencia';
+const nombre = 'Edwyn';
 
 
 saludar(nombre);
